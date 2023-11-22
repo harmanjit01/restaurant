@@ -1,0 +1,22 @@
+		Welcome Customer
+
+Bill Number: 847
+Customer Name: bharti
+Phone Number: 7888627019
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			10			200 Rs
+Face Cream			6			300 Rs
+Face Wash			1			100 Rs
+Body Lotion			20			1200 Rs
+Tea			20			1200 Rs
+Body Lotion			20			1200 Rs
+Pepsi			9			180 Rs
+Dew			1			20 Rs
+-------------------------------------------------------
+Cosmectic Tax				144.0 Rs
+Grocery Tax				120.0 Rs
+Drinks Tax				60.0 Rs
+
+Total Bill 				 3524.0
+-------------------------------------------------------
